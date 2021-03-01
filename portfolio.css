@@ -1,0 +1,7 @@
+.navbar-expand-lg { 
+ font-size: 2rem;
+}
+#bio-image{
+    display: flex;
+    flex-wrap: wrap;
+}
